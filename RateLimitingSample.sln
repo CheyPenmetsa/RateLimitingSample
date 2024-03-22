@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleRateLimitApi", "Simpl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleRateLimitingMinimalApi", "SimpleRateLimitingMinimalApi\SimpleRateLimitingMinimalApi.csproj", "{77747C64-F2F2-4968-B49B-3AA9B04A667B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RateLimitAlgorithmsApi", "RateLimitAlgorithmsApi\RateLimitAlgorithmsApi.csproj", "{8E3DF788-2D2F-4E50-B661-C4B617A25100}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RateLimitAlgorithmsMinimalApi", "RateLimitAlgorithmsMinimalApi\RateLimitAlgorithmsMinimalApi.csproj", "{D069EEB6-46BB-43CD-96FF-2C2AE3F767B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{77747C64-F2F2-4968-B49B-3AA9B04A667B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77747C64-F2F2-4968-B49B-3AA9B04A667B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77747C64-F2F2-4968-B49B-3AA9B04A667B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E3DF788-2D2F-4E50-B661-C4B617A25100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E3DF788-2D2F-4E50-B661-C4B617A25100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E3DF788-2D2F-4E50-B661-C4B617A25100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E3DF788-2D2F-4E50-B661-C4B617A25100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D069EEB6-46BB-43CD-96FF-2C2AE3F767B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D069EEB6-46BB-43CD-96FF-2C2AE3F767B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D069EEB6-46BB-43CD-96FF-2C2AE3F767B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D069EEB6-46BB-43CD-96FF-2C2AE3F767B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

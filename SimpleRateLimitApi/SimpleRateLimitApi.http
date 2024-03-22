@@ -1,0 +1,6 @@
+@SimpleRateLimitApi_HostAddress = http://localhost:5192
+
+GET {{SimpleRateLimitApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
